@@ -14,6 +14,7 @@ Open-source framework for developing real-time multimodal conversational AI agen
 [![YouTube](https://img.shields.io/badge/YouTube-VideoSDK-red)](https://www.youtube.com/c/VideoSDK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VideoSDK-blue)](https://www.linkedin.com/company/video-sdk/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA)](https://discord.com/invite/f2WsNDN9S5)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fudayg24%2Fagents.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fudayg24%2Fagents?ref=badge_shield)
 
 ## Overview
 
@@ -354,3 +355,7 @@ We love our contributors! Here's how you can contribute:
 <a href="https://github.com/videosdk-live/agents/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=videosdk-live/agents" />
 </a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fudayg24%2Fagents.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fudayg24%2Fagents?ref=badge_large)
